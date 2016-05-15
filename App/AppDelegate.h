@@ -14,6 +14,6 @@
 
 @property (strong, nonatomic) UIWindow *window;
 @property (strong, nonatomic) SendMsgToWeChatViewController *viewController;
-@property (nonatomic,strong) NSString *str;
+
 
 @end
